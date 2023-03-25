@@ -1,3 +1,5 @@
 # Hi there, I'm Saad! 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad484&theme=radical&cache=none)
+### Statistic
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&theme=chartreuse-dark" width="380">
+
