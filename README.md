@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saad AIDDI</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
+<img align="right" height="290" width="410" alt="" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/aiddi_saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiddi_saad" height="30" width="40" /></a>
@@ -15,7 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saad484&show_icons=true&locale=en&layout=compact" alt="saad484" />
 </p>
 
-<img align="right" height="290" width="410" alt="" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
