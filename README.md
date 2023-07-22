@@ -17,7 +17,7 @@
 <!-- Statistic -->
 <p align="center">
 <img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saad484&layout=compact&hide_border=true&themechartreuse-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saad484&layout=compact&hide_border=true&themechartreuse-light&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
 
 
@@ -45,6 +45,9 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
