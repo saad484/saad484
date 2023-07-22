@@ -59,7 +59,7 @@
 
 
 ### My Greatest Passions:
-  💻 &nbsp; I am deeply enthusiastic about exploring cutting-edge technology <br>
+  💻 &nbsp;I am deeply enthusiastic about exploring cutting-edge technology <br>
   📰 &nbsp;I am an avid reader and writer of technology blogs <br>
   ⚽️ &nbsp;I also have a great passion for sports, particularly soccer! <br> 
 
