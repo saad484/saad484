@@ -3,11 +3,7 @@
 
 <!-- Animated Image -->
 
-<!--  <img align="center" height="290" width="410" alt="Animated Image" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
--->
-<div style="display: flex; justify-content: center;" >
-<img   align="center" height="290" width="410" src="https://media.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif" alt="Killua Hunter X Hunter GIF - Killua Hunter X Hunter Killua Lightning GIFs">
-</div>
+<img align="center" height="290" width="410" alt="Animated Image" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 
 <div style="display: flex; align-items: center;">
   <!-- Connect with me -->
