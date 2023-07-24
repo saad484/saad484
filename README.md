@@ -55,13 +55,17 @@
    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   </a>
-</p>
+  </p>
 
 
 ### My Greatest Passions:
   💻 &nbsp;I am deeply enthusiastic about exploring cutting-edge technology <br>
   📰 &nbsp;I am an avid reader and writer of technology blogs <br>
   ⚽️ &nbsp;I also have a great passion for sports, particularly soccer! <br> 
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=saad484&icon=0&color=#00FFF0)](https://visitcount.itsvg.in)
 
 <!-- Portfolio -->
 <p align="left">
