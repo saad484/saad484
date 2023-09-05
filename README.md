@@ -67,7 +67,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=saad484&icon=0&color=#00FFF0)](https://visitcount.itsvg.in)
 
-<!-- Portfolio -->
-<p align="left">
-  <h4> Check out my portfolio: <a href="https://saadaiddi.netlify.app/" target="_blank">https://saadaiddi.netlify.app/</a></h4>
-</p>
