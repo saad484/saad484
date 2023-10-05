@@ -16,7 +16,7 @@
 
 <!-- Statistic -->
 <p align="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saad484&layout=compact&hide_border=true&themechartreuse-light&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
 
