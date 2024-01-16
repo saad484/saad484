@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad AIDDI</h1>
-<h3 align="center">A passionate Software Engineering</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 
 <div style="display: flex; align-items: center;">
