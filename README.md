@@ -20,7 +20,6 @@
 <!-- TryHackMe Profile -->
 <h3 align="left">TryHackMe Profile :</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/saad484.png" alt="TryHackMe">
-
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p style = "display: inline_block"> <br>
