@@ -11,7 +11,6 @@
     <a href="https://twitter.com/aiddi_saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiddi_saad" height="30" width="40" /></a>
   </p>
 </div>
-
 <!-- Statistic -->
 <p align="center">
 <img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010">
