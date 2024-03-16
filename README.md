@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&color=%237dfb00&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484)](https://git.io/typing-svg)
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&color=%237dfb00&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484" alt="Typing SVG">
+  </a>
+</div>
 
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -16,12 +18,14 @@
 
 <!-- Statistic -->
 <p align="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010">
+  <img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saad484&layout=compact&hide_border=true&themechartreuse-light&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</p>
 
 <!-- TryHackMe Profile -->
 <h3 align="left">TryHackMe Profile :</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/saad484.png" alt="TryHackMe">
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p style = "display: inline_block"> <br>
@@ -60,7 +64,6 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
 </a>
 
-
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
@@ -68,11 +71,10 @@
 
   </p>
 
-
 ### My Greatest Passions:
   💻 &nbsp;I am deeply enthusiastic about exploring cutting-edge technology <br>
   📰 &nbsp;I am an avid reader and writer of technology blogs <br>
   ⚽️ &nbsp;I also have a great passion for sports, particularly soccer! <br> 
 
 [![](https://visitcount.itsvg.in/api?id=saad484&icon=0&color=#00FFF0)](https://visitcount.itsvg.in)
-
+</div>
