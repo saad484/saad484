@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saad AIDDI</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484)](https://git.io/typing-svg)
 
+<h3 align="center">A passionate Software Engineer</h3>
 
 <div style="display: flex; align-items: center;">
   
@@ -11,6 +11,7 @@
     <a href="https://twitter.com/aiddi_saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiddi_saad" height="30" width="40" /></a>
   </p>
 </div>
+
 <!-- Statistic -->
 <p align="center">
 <img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010">
