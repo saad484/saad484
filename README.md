@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&color=%237dfb00&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484)](https://git.io/typing-svg)
+
+
 
 <h3 align="center">A passionate Software Engineer</h3>
 
