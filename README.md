@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Security Engineer</h3>
 
 <div style="display: flex; align-items: center;">
   
