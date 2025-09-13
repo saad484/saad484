@@ -23,9 +23,15 @@
 </p>
 
 <!-- TryHackMe Profile -->
-<h3 align="left">TryHackMe Profile :</h3>
+<!--<h3 align="left">TryHackMe Profile :</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/saad484.png" alt="TryHackMe">
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1412869" style='border:none; justify:center;'></iframe>
+-->
+<!-- TryHackMe Profile -->
+<h3 align="left">TryHackMe Profile :</h3>
+<a href="https://tryhackme.com/p/saad484" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/saad484.png" alt="TryHackMe Badge">
+</a>
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p style = "display: inline_block"> <br>
