@@ -1,86 +1,49 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&color=%237dfb00&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=AB5BFF00&center=true&vCenter=true&random=false&width=700&color=%237dfb00&lines=whoami$+Hi+%F0%9F%91%8B%2C+I'm+Saad+AIDDI+Aka+saad484" alt="Typing SVG">
   </a>
 </div>
 
 <h3 align="center">A passionate Security Engineer</h3>
 
-<div style="display: flex; align-items: center;">
-  
-  <!-- Connect with me -->
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-        <a href="https://www.linkedin.com/in/saad-aiddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saad-aiddi/" height="30" width="40" /></a>
-    <a href="https://twitter.com/aiddi_saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiddi_saad" height="30" width="40" /></a>
-  </p>
-</div>
+---
 
-<!-- Statistic -->
+### 🔗 Connect with me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saad-aiddi/) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aiddi_saad)
+
+---
+
+### 📊 GitHub Stats:
+
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saad484&layout=compact&hide_border=true&themechartreuse-light&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=issues,contribs&bg_color=000010" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad484&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000010&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
 </p>
 
-<!-- TryHackMe Profile -->
-<!--<h3 align="left">TryHackMe Profile :</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/saad484.png" alt="TryHackMe">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1412869" style='border:none; justify:center;'></iframe>
--->
-<!-- TryHackMe Profile -->
-<h3 align="left">TryHackMe Profile :</h3>
+---
+
+### 🛡️ TryHackMe Profile:
+
 <a href="https://tryhackme.com/p/saad484" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/saad484.png" alt="TryHackMe Badge">
 </a>
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p style = "display: inline_block"> <br>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
-</a>
 
+---
+
+### 🔧 Languages and Tools:
+
+<!-- skillicons.dev renders ALL icons as ONE single image = always horizontal on GitHub ✅ -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,html,css,js,bootstrap,react,laravel,flutter&perline=12" alt="Languages and Tools" />
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-</a>
+</p>
 
-  </p>
+---
 
-### My Greatest Passions:
-  💻 &nbsp;I am deeply enthusiastic about exploring cutting-edge technology <br>
-  📰 &nbsp;I am an avid reader and writer of technology blogs <br>
-  ⚽️ &nbsp;I also have a great passion for sports, particularly soccer! <br> 
+### 💡 My Greatest Passions:
 
-[![](https://visitcount.itsvg.in/api?id=saad484&icon=0&color=#00FFF0)](https://visitcount.itsvg.in)
-</div>
+- 💻 &nbsp;I am deeply enthusiastic about exploring cutting-edge technology
+- 📰 &nbsp;I am an avid reader and writer of technology blogs
+- ⚽️ &nbsp;I also have a great passion for sports, particularly soccer!
